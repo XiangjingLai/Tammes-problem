@@ -4,7 +4,7 @@ Xiangjing Lai, Dong Yue, Jin-Kao Hao, Fred Glover, Zhipeng Lv, Iterated dynamic 
 
 In addition, we provide the best solutions found in this work for all the tested instances. In the following, we provide the graphical representations of the best solutions for two representative instances (N =149 and 150). 
 
-Packing configuration for N=149:
+Packing configuration for N=149: \n
 ![Circle149](https://user-images.githubusercontent.com/89499042/192085750-0d739c48-a12f-4704-bba7-42272f05ef02.gif)
 
 Packing configuration for N=150:
