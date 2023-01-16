@@ -1,7 +1,7 @@
 # Tammes-problem
 This is an executable program for solving classic Tammes problem and the corresponding algorithm is described in the following paper:
 
-Xiangjing Lai, Dong Yue, Jin-Kao Hao, Fred Glover, Zhipeng Lv, Iterated dynamic neighborhood search for packing equal circles on a sphere, 151: 106121, 2023. 
+Xiangjing Lai, Dong Yue, Jin-Kao Hao, Fred Glover, Zhipeng Lv, Iterated dynamic neighborhood search for packing equal circles on a sphere,  Computers & Operations Research, 151: 106121, 2023. 
 
 In addition, we provide the best solutions found in this work for all the tested instances. In the following, we provide the graphical representations of the best solutions for two representative instances (N =149 and 150). 
 
